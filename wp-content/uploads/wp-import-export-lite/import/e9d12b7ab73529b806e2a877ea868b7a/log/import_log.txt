@@ -1,0 +1,4 @@
+[10:02:19] <strong>Record</strong> #1
+[10:02:19] post #176 Successfully Imported
+[10:02:19] <strong>Record</strong> #2
+[10:02:19] <strong>ERROR</strong> : 内容，标题和摘要为空。
